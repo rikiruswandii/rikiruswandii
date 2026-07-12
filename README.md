@@ -34,4 +34,4 @@ efficient, reliable, and maintainable software solutions that solve real-world b
 
 ---
 
-<h3 align="center">*Yesterday Is History, Tomorrow Is A Mystery But Today Is A Gift.*</h3>
+<h3 align="center">Yesterday Is History, Tomorrow Is A Mystery But Today Is A Gift.</h3>
